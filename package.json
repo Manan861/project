@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"No lint configured yet\"",
+    "test": "echo \"No tests configured yet\"",
+    "build": "echo \"No build configured yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manan861/project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manan861/project/issues"
+  },
+  "homepage": "https://github.com/Manan861/project#readme"
+}
